@@ -1,0 +1,18 @@
+.estiloNav{
+    background-color: lightskyblue;
+    height: 100px;
+    padding: 6px 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.estiloUl{
+        list-style: none;
+        display: flex;
+    }
+.estiloA{
+        text-decoration: none;
+        font-size: 1.2em;
+        margin-right: 10px;
+    }
